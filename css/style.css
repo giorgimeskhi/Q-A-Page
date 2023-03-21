@@ -1,0 +1,128 @@
+h1{
+    position: absolute;
+    left: 28.57%;
+    right: 28.5%;
+    top: 10.75%;
+    bottom: 83.66%;
+    
+    font-family: 'DM Sans';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 42px;
+    line-height: 52px;
+    text-align: center;
+    letter-spacing: -0.4px;
+    color: #1E0E62;
+}
+.containers{
+    position: absolute;
+    width: 1700px;
+    height: 930px;
+    margin-right: 50%;
+    margin-left: 55%;
+    transform: translate(-50%,50%);
+    margin-top: -450px;
+}
+.container1{
+    position: absolute;
+    left: 15.43%;
+    right: 51%;
+    top: 21.72%;
+    bottom: 75.27%;
+
+    font-family: 'DM Sans';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 18px;
+    line-height: 28px;
+    color: #1E0E62;
+}
+.container2{
+    position: absolute;
+    left: 51.07%;
+    right: 15.36%;
+    top: 21.72%;
+    bottom: 75.27%;
+
+    font-family: 'DM Sans';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 18px;
+    line-height: 28px;
+    color: #1E0E62;
+
+}
+.container3{
+    
+    position: absolute;
+    left: 15.43%;
+    right: 51%;
+    top: 46.88%;
+    bottom: 50.11%;
+
+    font-family: 'DM Sans';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 18px;
+    line-height: 28px;
+    color: #1E0E62;
+}
+.container4{
+    position: absolute;
+    left: 51.07%;
+    right: 15.36%;
+    top: 46.88%;
+    bottom: 50.11%;
+
+    font-family: 'DM Sans';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 18px;
+    line-height: 28px;
+    color: #1E0E62;
+}
+.container5{
+    position: absolute;
+    left: 15.43%;
+    right: 51%;
+    top: 72.04%;
+    bottom: 24.95%;
+    
+    font-family: 'DM Sans';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 18px;
+    line-height: 28px;
+    color: #1E0E62;
+}
+.container6{
+    position: absolute;
+    left: 51.07%;
+    right: 15.36%;
+    top: 72.04%;
+    bottom: 24.95%;
+
+    font-family: 'DM Sans';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 18px;
+    line-height: 28px;
+    color: #1E0E62;
+}
+.title{
+    line-height: 28px;
+    font-weight: bold;
+    font-family: 'Roboto', sans-serif;
+    margin-top: 50px;
+    margin-bottom: 10px;
+}
+.text{
+    position: absolute;
+    right: 30%;
+    font-family: 'Roboto', sans-serif;
+    font-size: 16px;
+    line-height: 26px;
+    font-weight: 400;
+    opacity: 40%;
+    color: #151439;
+}
